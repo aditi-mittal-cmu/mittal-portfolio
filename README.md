@@ -18,10 +18,7 @@ Particularly, I am extremely interested to learn how to create impactful visuali
 # Portfolio
 Here's a peek into my work.
 
-
-
-
-Visualizing government debt
+[Visualizing government debt](government-debt.md)
 
 
 
