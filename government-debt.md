@@ -28,7 +28,12 @@
  
 <h2> Visualization 3 - Scatter plot Graph </h2>
 
+
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7701060"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
+<p>This chart shows the change in Debt-To-GDP ratio for different countries from 1994-2020. The chart is grouped by country and the toggle can be used to view the graph for different countries. </p>
 
 
 <p>Intent for selecting the scatter plot to represent the debt-to-GDP ratio</p>
