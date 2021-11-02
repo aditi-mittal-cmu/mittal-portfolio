@@ -18,7 +18,7 @@
 
 
 
-# Visualization 2 - Grid Line Chart
+<h2>Visualization 2 - Grid Line Chart</h2>
 <p>Debt-to-GDP Ratio for countries over the years</p>
 <div class="flourish-embed flourish-chart" data-src="visualisation/7676309"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
@@ -27,7 +27,7 @@
 
 
  
-# Visualization 3 - Scatter plot Graph
+<h2> Visualization 3 - Scatter plot Graph </h2>
 
 <div class="flourish-embed flourish-scatter" data-src="visualisation/7701060"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
