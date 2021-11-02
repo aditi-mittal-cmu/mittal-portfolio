@@ -3,7 +3,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
 
-Hi! I am Aditi (She/Hers), a Masters of Information Systems Management student at Carnegie Mellon University.
+Hi! I am Aditi (She/Her/Hers), a Masters of Information Systems Management student at Carnegie Mellon University.
 
 Prior to pursuing masters, I worked as a  lead techno-functional consultant at Microsoft for 5 years. During this time, I primarily worked on Dynamics 365, a Customer Relationship Management product, helping organizations migrate to this cloud based platform. I have had experience in both, private and public sectors across diverse domains like government, e-commerce, retail. I managed different stakeholders, engaged with clients to understand their business requirements and provided solutions specific to their business case. I loved working at the intersection of people, technology and business and would like to segue into Product Mangement post my masters. 
 
