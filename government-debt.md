@@ -2,12 +2,11 @@
 # Assignment 2: Visualizing Government Debt
 
 
-# Visualization 1 - Bar Graph
+<h2>Visualization 1 - Bar Graph </h2>
 <p>General Government Debt for 2018 - Organization Economic Co-operation and Development (OECD)<p>
  
-<p>General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.<p>
-<a href="https://data.oecd.org/gga/general-government-debt.htm">(Definition Source: OECD)</a>
- 
+<p>General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits. <a href="https://data.oecd.org/gga/general-government-debt.htm">(Definition Source: OECD)</a><p>
+
 
  
  
@@ -34,10 +33,10 @@
 
 <p>Intent for selecting the scatter plot to represent the debt-to-GDP ratio</p>
 
-<p>Adding a filter to the scatter plot, allowed me to toggle between different countries. The graph looks clean and neat - and the change in overall debt to GDP over the years is very easy to follow. Further, I used a hotter colour here since the debt has increased for most countries over the years. 
-This is something I believe was missing in the above two graphs. The bar chart only provided information for a particular year (2018) in our case but it is useful to be able to do a comparison over the years for each other. The grid of lines chart on the other hand, overcame that issue of the bar chart, but looked very busy to me. Incorporating all the countries next to each other, made the scale so small that it was hard to see the extent of variation over the years. </p>
+<p>Adding a filter to the scatter plot, allowed me to toggle between different countries. The graph looks clean - and the change in overall debt to GDP over the years is very easy to follow. Further, I used a hotter colour here since the debt has increased for most countries over the years. 
+I believe this was missing in the above two graphs. The bar chart only provided information for a particular year (2018 in our case) but it would have been more useful if we were able to do a comparison of the debt-to-GDP ratio over the years. Another aspect of the bar chart that I found a little distracting was the use of a background colour. And lastly, the lack of context on the title made it difficult to understand the graph. 
+       The grid of lines chart on the other hand, overcame some of the issues of the bar chart, but looked very busy to me. Incorporating all the countries next to each other, made the scale very small that it was hard to see the extent of variation over the years. </p>
 <p>I consciously removed the "ALL" option from the filter since that looked too crowded due to the data points, but if we had to compare a few countries and perhaps decrease the timeframe - say 2017-2021, I believe this scatter plot could have been even richer - in terms of being able to compare the countries well. </p>
-<p>Other things that I noticed in the bar chart was that the background colour was a little distracting and the title was not very intuitive.</p>
 
 
 [Link to Main portfolio](README.md)
