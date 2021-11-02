@@ -5,7 +5,8 @@
 # Visualization 1 - Bar Graph
 <p>General Government Debt for 2018 - Organization Economic Co-operation and Development (OECD)<p>
  
-<p>General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.<p><a href="https://data.oecd.org/gga/general-government-debt.htm">(Definition Source: OECD)</a>
+<p>General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits.<p>
+<a href="https://data.oecd.org/gga/general-government-debt.htm">(Definition Source: OECD)</a>
  
 
  
