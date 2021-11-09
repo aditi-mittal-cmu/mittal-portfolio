@@ -3,7 +3,10 @@
 
 <h2>Step one: find a data visualization</h2>
 
-<p></p>
+![image](https://user-images.githubusercontent.com/93219887/141018558-ef0d97dd-6a32-4569-aa07-906d481c24da.png)
+
+<p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, as the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London.</p>
+
 
 
 
@@ -12,10 +15,7 @@
 <p>The citique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
 Overall, I think this visualization was a very informative one, the title and subtitle were simple but clear, but I would have rather used a different mode of visualization. In partcular, the critique helped me better articulate how I would like to proceed with the modifications. </p>
 
-
-
-
-
+<p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart represent the information around emerging markets, Asia's growth and furture prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one.</p>
 
 
 
@@ -26,12 +26,12 @@ Overall, I think this visualization was a very informative one, the title and su
 
 <p>Wireframe 1</p>
 
-<p>My thought process here was - to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
+<p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
 
 <p>Wireframe 2</p>
 
-<p>My thought process here was - to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
+<p>My thought process here was to further use colours to show how the regions are doing data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
 <h2>Step four: Test the solution</h2>
 
@@ -96,13 +96,35 @@ In terms of the visualization, it was unclear what was the current and predicted
 	</ol>
 </i></p>
 
+<h3><b> Class exercise feedback</b></h3>
+<p>I decided to also document the feedback that I received in the in-class exercise as I thought some great points were raised. </p>
+
+What worked?
+<i>
+1. Top to bottom 
+2. Region grouped by colour
+</i>
+
+What didn't work?
+<i>
+1. The ranks were not clear.
+2. Projected value and current value gained a mixed response. 
+3. Title could have been more specific.
+</i>
+
+What questions came up?
+<i>1. The bar chart for Asia - what were the % for?</i>
+
+What new inspiration arose?
+<i>1. Someone mentioned to try showing the projected and current value in the same bar, the projected one as an extension.</i>
 
 <p> Once I got the feedback for my graph, I showed the original chart to get a comparative feedback. 
 Person 1 found the chart to be very visually appealing but the difference between GDP values for the countries was not apparent or easily understandable. 
 Person 2 found the bar chart more intuitive and called the original chart "confusing" and "extra". In addition to the above general feedback,
 he added that the map shown for India on the right seemed ambiguous. The text was an inference from the GDP values for
 both the years and the heading "World's fastest growing cities, by annual population growth" made it unclear if all the cities were actually
-in India or just the ones in India were listed.  He added that I could consider showing that in a different way. </p>
+in India or just the ones in India were listed.  He added that I could consider showing that in a different way. In the class exercise, they also found the original
+chart beautiful but not helpful.</p>
 
 <p>In general, I believe the idea of the what the chart represents was coming through and was clearly identifiable. </p>
 
@@ -121,7 +143,6 @@ in India or just the ones in India were listed.  He added that I could consider 
  </ol>
 </p>
    
-
        
  <p> You should include a any insights you gained from the critique method, and what it led you to think about when considering a redesign, 
  if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback. 
@@ -134,4 +155,10 @@ Make sure to avoid including any personally identifying information about your i
 
 <h2>Step five: Build your solution</h2>
 
+<p>One thing that I couldn't figure out was how to make the projection dashed line in flourish.</p>
+
+
+
+
+<h2></h2>
 
