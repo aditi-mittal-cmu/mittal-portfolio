@@ -3,12 +3,17 @@
 
 <h2>Step one: find a data visualization</h2>
 
+<p></p>
 
 
 
 <h2>Step two: critique the data visualization</h2>
 
-<p>The citique method that we used here analysed the following metrics</p>
+<p>The citique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
+Overall, I think this visualization was a very informative one, the title and subtitle were simple but clear, but I would have rather used a different mode of visualization. In partcular, the critique helped me better articulate how I would like to proceed with the modifications. </p>
+
+
+
 
 
 
@@ -17,8 +22,16 @@
 
 <h2>Step three: wireframe a solution</h2>
 
+<p> Once I had a better understanding of what all aspects I wanted to touch in the original chart, I began wireframing. I went through two versions here - the first one to get a rough idea of how it would look in reality and the second one was a revised version that I shared with people in the next step. </p>
+
+<p>Wireframe 1</p>
+
+<p>My thought process here was - to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
 
+<p>Wireframe 2</p>
+
+<p>My thought process here was - to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
 <h2>Step four: Test the solution</h2>
 
@@ -31,7 +44,7 @@
 <p><b> Could you tell me what you think this visualization is?</b></p>
 <p><i>"I think this is graph for top economies in 2017 & prediction of their GDP in 2030. (Continuous vs Dotted lines uses for present and future respectively)."</i></p>
 
-<p><b> COuld you describe to me what this is telling you?</b></p>
+<p><b> Could you describe to me what this is telling you?</b></p>
 <p><i>"This is telling me that GDP of US won’t grow as much as India’s GDP."</i></p>
 
 
@@ -110,8 +123,7 @@ in India or just the ones in India were listed.  He added that I could consider 
    
 
        
- <p>For each step above, you should document your progress (think of it as though you're keeping journal of your step-by-step process).  
- You should include a any insights you gained from the critique method, and what it led you to think about when considering a redesign, 
+ <p> You should include a any insights you gained from the critique method, and what it led you to think about when considering a redesign, 
  if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback. 
  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows,
  why you selected the data visualization you did, and what you attempted to show or do differently. 
