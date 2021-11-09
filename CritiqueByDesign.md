@@ -22,9 +22,9 @@
 
 <h2>Step four: Test the solution</h2>
 
-<p> This was by far the most exciting step for me. Asking people to look at a visualization I created while providing them with little or no context was scary at first. 
+<p><i> This was by far the most exciting step for me. Asking people to look at a visualization I created while providing them with little or no context was scary at first. 
     I wondered what if none of this makes sense to anyone but I was surprised with the positive critique and insights from people. I solicited feedback from
-    two people who I am going to call Person 1 and Person 2. Everything mentioned in "" are direct quotes. </p>
+    two people who I am going to call Person 1 and Person 2. Everything mentioned in "" are direct quotes. </i></p>
     
 <p><b> Person 1</b></p>
 
@@ -75,9 +75,12 @@ In terms of the visualization, it was unclear what was the current and predicted
 
 
 <p><b>Is there anything you would change or do differently?</b></p>
-<p><i>	1. Instead of using a bar chart to show the rise of Asia, Person 2 mentioned that they would prefer a line chart.
-	2. Add a different table to show the ranks of the countries in 2017 and 2030. 
-	3. The chart showed only 6 countries while the title read 10 countries. 
+<p><i>
+	<ol type="1">
+		<li>Instead of using a bar chart to show the rise of Asia, Person 2 mentioned that they would prefer a line chart.</li>
+		<li>Add a different table to show the ranks of the countries in 2017 and 2030. </li>
+		<li>The chart showed only 6 countries while the title read 10 countries. </li>
+	</ol>
 </i></p>
 
 
@@ -90,27 +93,31 @@ in India or just the ones in India were listed.  He added that I could consider 
 
 <p>In general, I believe the idea of the what the chart represents was coming through and was clearly identifiable. </p>
 
-<p>Things I would like to incorporate from the feedback. 
+<p><b>Things I would like to incorporate from the feedback. </b>
    <ol type="1">
      <li>Adding an additional table to show the ranks. </li>
      <li>Changing the Asia chart to a line instead of a bar. </li>
      <li>As for the countries, I ran out of space. So the final chart will have 10 countries, as stated in the title.</li>
      <li>Include a legend for continents</li> 
+    </ol>
 </p>
 
 <p>Things I would not be incorporating currently 
- 1.  Adding a different representation for India map </p>
+ <ol type="1">
+	 <li>1.  Adding a different representation for India map</li>
+ </ol>
+</p>
+   
 
-    
-    
-  <p>For each step above, you should document your progress (think of it as though you're keeping journal of your step-by-step process).  
+       
+ <p>For each step above, you should document your progress (think of it as though you're keeping journal of your step-by-step process).  
  You should include a any insights you gained from the critique method, and what it led you to think about when considering a redesign, 
-  if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback. 
-  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows,
-  why you selected the data visualization you did, and what you attempted to show or do differently. 
+ if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback. 
+ Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows,
+ why you selected the data visualization you did, and what you attempted to show or do differently. 
 
 Include screenshots of your wireframes or other artifacts with your narrative to help tell the story of how you moved through the process.  
-  Make sure to avoid including any personally identifying information about your interviewees (don't list their full names, etc.). </p>
+Make sure to avoid including any personally identifying information about your interviewees (don't list their full names, etc.). </p>
 
 
 <h2>Step five: Build your solution</h2>
