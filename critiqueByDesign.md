@@ -26,7 +26,7 @@
     I wondered what if none of this makes sense to anyone but I was surprised with the positive critique and insights from people. I solicited feedback from
     two people who I am going to call Person 1 and Person 2. Everything mentioned in "" are direct quotes. </i></p>
     
-<p><b> Person 1</b></p>
+<h3><b> Person 1</b></h3>
 
 <p><b> Could you tell me what you think this visualization is?</b></p>
 <p><i>"I think this is graph for top economies in 2017 & prediction of their GDP in 2030. (Continuous vs Dotted lines uses for present and future respectively)."</i></p>
@@ -54,7 +54,7 @@
 </ol></i></p>
 
 
-<p><b> Person 2</b></p>
+<h3><b> Person 2</b></h3>
 
 <p><b> Could you tell me what you think this visualization is?</b></p>
 <p><i>"List of top 10 world economies. Prediction of the GDP value for the 2030 mark based on the 2017 data."</i></p>
