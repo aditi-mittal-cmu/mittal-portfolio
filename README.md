@@ -21,6 +21,8 @@ Here's a peek into my work.
 [Assignment 1: Visualizing government debt](government-debt.md)
 
 
+[Assignment 3 & 4: Critique by Design](critiqueByDesign.md)
+
 
 
 Final Project
