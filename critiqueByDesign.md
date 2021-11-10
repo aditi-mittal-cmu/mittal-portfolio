@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/93219887/141018558-ef0d97dd-6a32-4569-aa07-906d481c24da.png)
 
-<p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, as the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London. The data for 2017 was taken from IMF's 2017 data source.</p>
+<p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, in the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London. The data for 2017 was taken from IMF's 2017 data source.</p>
 
 I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all higher up in the list than UK. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. 
 
@@ -102,23 +102,23 @@ In terms of the visualization, it was unclear what was the current and predicted
 <p>I decided to also document the feedback that I received in the in-class exercise as I thought some great points were raised. </p>
 
 What worked?
-<i>
+<p><i>
 1. Top to bottom 
 2. Region grouped by colour
-</i>
+</i></p>
 
 What didn't work?
-<i>
+<p><i>
 1. The ranks were not clear.
 2. Projected value and current value gained a mixed response. 
 3. Title could have been more specific.
-</i>
+</i></p>
 
 What questions came up?
-<i>1. The bar chart for Asia - what were the % for?</i>
+<p><i>1. The bar chart for Asia - what were the % for?</i></p>
 
 What new inspiration arose?
-<i>1. Someone mentioned to try showing the projected and current value in the same bar, the projected one as an extension.</i>
+<p><i>1. Someone mentioned to try showing the projected and current value in the same bar, the projected one as an extension.</i></p>
 
 <p> Once I got the feedback for my graph, I showed the original chart to get a comparative feedback. 
 Person 1 found the chart to be very visually appealing but the difference between GDP values for the countries was not apparent or easily understandable. 
@@ -160,6 +160,10 @@ Make sure to avoid including any personally identifying information about your i
 <p>One thing that I couldn't figure out was how to make the projection dashed line in flourish.</p>
 
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7777395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/7777584"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 <h2></h2>
