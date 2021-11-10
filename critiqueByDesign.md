@@ -38,14 +38,14 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 
 <p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030. </p>
 
-![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/IMG_3624.jpg?raw=true)
+![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/pic.PNG?raw=true)
 
 
 <p><b>Wireframe 2</b></p>
 
 <p>My thought process here was to further use colours to show how the regions are doing. I didn't show the 2030 rankings since I sorted the countries in descending order and thought that those ranks were intuitive. This was a change from the previous wireframe. I added a second chart to show how Asia's GDP slice has grown since 2010. </p>
 
-![IMG_3624](https://user-images.githubusercontent.com/93219887/141032398-f2cec62f-5168-4f62-af2c-d768214aa109.jpg?raw=true)
+![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/IMG_3624.jpg?raw=true)
 
 
 
@@ -55,12 +55,11 @@ I changed the visualization to show both the projected and initial value as a si
 
 I also changed the visualization to show Asia's growth into a line chart instead of a bar chart. This did look more intuitive than the bar chart version before. 
 
-
-![IMG_3625](https://user-images.githubusercontent.com/93219887/141035978-0d8b0e97-a256-4c4c-805c-a75f1620b9fe.JPG?raw=true)
+![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/IMG_3625.JPG?raw=true)
 
 I also created a simple table to show the rank change of the countries. This provided a side by side comparision between the 2017 and 2030 rankings along with the rank change - denoted a decrease in ranking as green (positive colour) and increase in rank as red (hot colour).
 
-![IMG_3626](https://user-images.githubusercontent.com/93219887/141035944-c51956eb-d244-4474-8475-aca65cdef3b4.jpg?raw=true)
+![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/IMG_3626.jpg?raw=true)
 
 
 <h2>Step four: Test the solution</h2>
