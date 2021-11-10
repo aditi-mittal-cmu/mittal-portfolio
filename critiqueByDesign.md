@@ -36,14 +36,14 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 
 <p><b>Wireframe 1</b></p>
 
-<p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030. </p>
+My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030.
 
 ![Wireframe 1](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/wireframe1.jpeg?raw=true)
 
 
 <p><b>Wireframe 2</b></p>
 
-<p>My thought process here was to further use colours to show how the regions are doing. I didn't show the 2030 rankings since I sorted the countries in descending order and thought that those ranks were intuitive. This was a change from the previous wireframe. I added a second chart to show how Asia's GDP slice has grown since 2010. </p>
+My thought process here was to further use colours to show how the regions are doing. I didn't show the 2030 rankings since I sorted the countries in descending order and thought that those ranks were intuitive. This was a change from the previous wireframe. I added a second chart to show how Asia's GDP slice has grown since 2010.
 
 ![Wireframe 2](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/wireframe2.jpeg?raw=true)
 
