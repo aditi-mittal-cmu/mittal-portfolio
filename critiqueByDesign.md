@@ -38,14 +38,14 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 
 <p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030. </p>
 
-![image](https://user-images.githubusercontent.com/93219887/141032196-f37a4a38-82fb-4193-b9c3-4db9fc109989.png)
+![image](https://user-images.githubusercontent.com/93219887/141032196-f37a4a38-82fb-4193-b9c3-4db9fc109989.png?raw=true)
 
 
 <p><b>Wireframe 2</b></p>
 
 <p>My thought process here was to further use colours to show how the regions are doing. I didn't show the 2030 rankings since I sorted the countries in descending order and thought that those ranks were intuitive. This was a change from the previous wireframe. I added a second chart to show how Asia's GDP slice has grown since 2010. </p>
 
-![IMG_3624](https://user-images.githubusercontent.com/93219887/141032398-f2cec62f-5168-4f62-af2c-d768214aa109.jpg)
+![IMG_3624](https://user-images.githubusercontent.com/93219887/141032398-f2cec62f-5168-4f62-af2c-d768214aa109.jpg?raw=true)
 
 
 
@@ -56,11 +56,11 @@ I changed the visualization to show both the projected and initial value as a si
 I also changed the visualization to show Asia's growth into a line chart instead of a bar chart. This did look more intuitive than the bar chart version before. 
 
 
-![IMG_3625](https://user-images.githubusercontent.com/93219887/141035978-0d8b0e97-a256-4c4c-805c-a75f1620b9fe.JPG)
+![IMG_3625](https://user-images.githubusercontent.com/93219887/141035978-0d8b0e97-a256-4c4c-805c-a75f1620b9fe.JPG?raw=true)
 
 I also created a simple table to show the rank change of the countries. This provided a side by side comparision between the 2017 and 2030 rankings along with the rank change - denoted a decrease in ranking as green (positive colour) and increase in rank as red (hot colour).
 
-![IMG_3626](https://user-images.githubusercontent.com/93219887/141035944-c51956eb-d244-4474-8475-aca65cdef3b4.jpg)
+![IMG_3626](https://user-images.githubusercontent.com/93219887/141035944-c51956eb-d244-4474-8475-aca65cdef3b4.jpg?raw=true)
 
 
 <h2>Step four: Test the solution</h2>
@@ -200,7 +200,8 @@ I created this chart to show the rankings into a table instead of adding them in
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7782241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racing bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
-The racing bar chart is definitely a very interactive way to visualize the ranking change but the intent here was to show how the colours would have been minimized and how regions could have been grouped. 
+<p>I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racing bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
+The racing bar chart is definitely a very interactive way to visualize the ranking change but the intent here was to show how the colours would have been minimized and how regions could have been grouped. </p>
 
-Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. Also, the colour effect used in the original visualization was too distracting, which was also eliminated here. I cut down on the information that was shown in the chart and added a title and subtitle instead for each of the visualization. My main idea was to use simple visualizations to convey the story. 
+
+<p>Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. Also, the colour effect used in the original visualization was too distracting, which was also eliminated here. I cut down on the information that was shown in the chart and added a title and subtitle instead for each of the visualization. My main idea was to use simple visualizations to convey the story. </p>
