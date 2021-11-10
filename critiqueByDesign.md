@@ -7,7 +7,7 @@
 
 <p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, in the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London. The data for 2017 was taken from IMF's 2017 data source.</p>
 
-I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all higher up in the list than UK. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. Since this is pre-pandemic data, it would also be interesting to see if any predictions have been affected because of COVID-19. 
+I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US in 2030. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all climbing up in ranks. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. Since this is pre-pandemic data, it would also be interesting to see if any predictions have been affected because of COVID-19. 
 
 In terms of how the data was represented, I saw a lot of potential for following a different approach - changing the type of visualization, limiting the use of colours, and reducing/editing the text used on the chart. 
 
@@ -17,9 +17,9 @@ In terms of how the data was represented, I saw a lot of potential for following
 <p>The citique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
 Overall, I think this visualization was a very informative one, the title and subtitle were simple but clear, but I would have rather used a different mode of visualization. In partcular, the critique helped me better articulate how I would like to proceed with the modifications. </p>
 
-This chart was visually very appealing given the use of so many colours and images but that was one of the things that I found very distracting too. I was immediately drawn to learn how India was projected to rank above the US, so in that regard the chart definitely got me more interested in the data presented. 
+This chart was visually very appealing given the use of so many colours and images but that was one of the things that I found very distracting too. One thing that the chart did well was present most of the information correctly, I was also immediately drawn to learn how India was projected to rank above the US.
 
-When I first looked at the chart, my mind was automatically drawn to the solar system, the way each country was represented, the descending order, use of colour and the galaxy effect. After spending a little more time, I got a sense of what was being represented. There were a few things that I found unnecessary, like the chart for India. Would economists be interested in those cities particularly? Are those the highest growing cities in the world or just India? Would a world map be better to show the scale of comparison? In terms of the data presented, the forecast was done by Standard Chartered, which seems like a credible source.  The chart seemed too long, there was a considerable amount of eye travel to have a look at all the countries. Though the text data added is very informative and presented neatly, I think it was a lot and could be trimmed down. I also found myself wondering a few things - like was there a specific reason for the choice of colours? Was the idea to use the flag colour? 
+When I first looked at the chart, my mind was automatically drawn to the solar system, the way each country was represented, use of colour and the galaxy effect. After spending a little more time, I got a sense of what was being represented. There were a few things that I found unnecessary, like the chart for India. Would economists be interested in those cities particularly? Are those the highest growing cities in the world or just India? Would a world map be better to show the scale of comparison? In terms of the data presented, the forecast was done by Standard Chartered, which seems like a credible source.  The chart seemed too long, there was a considerable amount of eye travel to have a look at all the countries. Though the text data added is very informative and presented neatly, I think it was a lot and could be trimmed down. I also found myself wondering a few things - like was there a specific reason for the choice of colours? Was the idea to use the flag colour? 
 
 <p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart represent the information around emerging markets, Asia's growth and furture prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one. To this point, I decided to use a bar chart to show the GDP values for the countries</p>
 
@@ -48,12 +48,8 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 ![IMG_3624](https://user-images.githubusercontent.com/93219887/141032398-f2cec62f-5168-4f62-af2c-d768214aa109.jpg)
 
 
-I created a simple table to show the rank change of the countries. A side by side comparision between the 2017 and 2030 rankings and denoted a a decrease in ranking as green (positive colour) and increase in rank as red (hot colour).
 
-![IMG_3626](https://user-images.githubusercontent.com/93219887/141035944-c51956eb-d244-4474-8475-aca65cdef3b4.jpg)
-
-
-<p><b>After incorporating the feedback from people, I created a few more wireframes to test them out</b></p>
+<p><b>After incorporating the feedback from people, I created 2 more wireframes.</b></p>
 
 I changed the visualization to show both the projected and initial value as a single bar to see how it would look like. I also added a legend to show the region groupings and chart titles and subtitles to be more descriptive. 
 
@@ -61,6 +57,10 @@ I also changed the visualization to show Asia's growth into a line chart instead
 
 
 ![IMG_3625](https://user-images.githubusercontent.com/93219887/141035978-0d8b0e97-a256-4c4c-805c-a75f1620b9fe.JPG)
+
+I also created a simple table to show the rank change of the countries. This provided a side by side comparision between the 2017 and 2030 rankings along with the rank change - denoted a decrease in ranking as green (positive colour) and increase in rank as red (hot colour).
+
+![IMG_3626](https://user-images.githubusercontent.com/93219887/141035944-c51956eb-d244-4474-8475-aca65cdef3b4.jpg)
 
 
 <h2>Step four: Test the solution</h2>
@@ -169,7 +169,7 @@ chart beautiful but not helpful.</p>
 
 <p>Things I would not be incorporating currently 
  <ol type="1">
-	 <li>1.  Adding a different representation for India map</li>
+	 <li>Adding a different representation for India map</li>
  </ol>
 </p>
   
