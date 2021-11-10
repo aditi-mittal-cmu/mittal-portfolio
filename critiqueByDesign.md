@@ -129,23 +129,23 @@ In terms of the visualization, it was unclear what was the current and predicted
 <h3><b> Class exercise feedback</b></h3>
 <p>I decided to also document the feedback that I received in the in-class exercise as I thought some great points were raised. </p>
 
-What worked?
+<b>What worked?</b>
 <p><i>
-1. Top to bottom 
-2. Region grouped by colour
+	1. Top to bottom </br>
+	2. Region grouped by colour
 </i></p>
 
-What didn't work?
+<b>What didn't work?</b>
 <p><i>
-1. The ranks were not clear.
-2. Projected value and current value gained a mixed response. 
-3. Title could have been more specific.
+1. The ranks were not clear. </br>
+2. Projected value and current value gained a mixed response. </br>
+3. Title could have been more specific. </br>
 </i></p>
 
-What questions came up?
+<b>What questions came up?</b>
 <p><i>1. The bar chart for Asia - what were the % for?</i></p>
 
-What new inspiration arose?
+<b>What new inspiration arose?</b>
 <p><i>1. Someone mentioned to try showing the projected and current value in the same bar, the projected one as an extension.</i></p>
 
 <p> Once I got the feedback for my graph, I showed the original chart to get a comparative feedback. 
