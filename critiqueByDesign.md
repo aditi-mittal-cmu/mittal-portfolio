@@ -14,7 +14,7 @@ In terms of how the data was represented, I saw a lot of potential for following
 
 <h2>Step two: critique the data visualization</h2>
 
-<p>The citique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
+<p>The critique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
 Overall, I think this visualization was a very informative one, the title and subtitle were simple but clear, but I would have rather used a different mode of visualization. In partcular, the critique helped me better articulate how I would like to proceed with the modifications. </p>
 
 This chart was visually very appealing given the use of so many colours and images but that was one of the things that I found very distracting too. One thing that the chart did well was present most of the information correctly, I was also immediately drawn to learn how India was projected to rank above the US.
@@ -38,7 +38,7 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 
 <p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030. </p>
 
-![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/pic.PNG?raw=true)
+![alt text](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/wireframe4.jpeg?raw=true)
 
 
 <p><b>Wireframe 2</b></p>
