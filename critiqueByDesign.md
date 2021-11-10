@@ -5,9 +5,11 @@
 
 ![image](https://user-images.githubusercontent.com/93219887/141018558-ef0d97dd-6a32-4569-aa07-906d481c24da.png)
 
-<p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, as the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London.</p>
+<p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, as the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London. The data for 2017 was taken from IMF's 2017 data source.</p>
 
+I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all higher up in the list than UK. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. 
 
+In terms of how the data was represented, I saw a lot of potential for following a different approach - changing the type of visualization, limiting the use of colours, and reducing/editing the text used on the chart. 
 
 
 <h2>Step two: critique the data visualization</h2>
@@ -24,12 +26,12 @@ Overall, I think this visualization was a very informative one, the title and su
 
 <p> Once I had a better understanding of what all aspects I wanted to touch in the original chart, I began wireframing. I went through two versions here - the first one to get a rough idea of how it would look in reality and the second one was a revised version that I shared with people in the next step. </p>
 
-<p>Wireframe 1</p>
+<p><b>Wireframe 1</b></p>
 
 <p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
 
-<p>Wireframe 2</p>
+<p><b>Wireframe 2</b></p>
 
 <p>My thought process here was to further use colours to show how the regions are doing data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
 
