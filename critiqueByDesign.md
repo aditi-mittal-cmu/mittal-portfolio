@@ -38,7 +38,7 @@ Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2
 
 <p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections. I added both the ranking - 2017 and 2030. </p>
 
-![image](https://user-images.githubusercontent.com/93219887/141032196-f37a4a38-82fb-4193-b9c3-4db9fc109989.png?raw=true)
+![Image](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/IMG_3624.jpg?raw=true)
 
 
 <p><b>Wireframe 2</b></p>
