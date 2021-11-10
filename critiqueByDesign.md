@@ -23,7 +23,7 @@ When I first looked at the chart, my mind was automatically drawn to the solar s
 
 <p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart representing the information around emerging markets, Asia's growth and future prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one. To this point, I decided to use a bar chart to show the GDP values for the countries</p>
 
-<p> When I delved deeper into the usefulness of the chart, it was apparent that one of the major highlights was how Asia's slice of the global GDP pie has risen over the years. Since I am not a big fan of pie charts - I would have gone for a pie/line chart here, showing the rise trend. 
+<p> When I delved deeper into the usefulness of the chart, it was apparent that one of the major highlights was how Asia's slice of the global GDP pie has risen over the years. Since I am not a big fan of pie charts - I would have gone for a pie/line chart here, showing the rise trend. </p>
 
 
 There are a couple of things that I would do differently, which I tried to incorporate into the wireframes below. 
