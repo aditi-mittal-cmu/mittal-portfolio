@@ -182,12 +182,10 @@ These are the visualizations that I redesigned using flourish.
 <div class="flourish-embed flourish-chart" data-src="visualisation/7777395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-In this visualization, I used the stacked bar chart from flourish. While exploring different options, I realized that I could add a multi select series filter - to show the 2017 GDP ranking, 2030 GDP ranking, individually and together. This is something that I had not originally thought of, but I think it adds to the message. I am using the Y axis to show the countries and the X axis to show the GDP value in trillions. 
-
+In this visualization, I used the stacked bar chart from flourish. While exploring different options, I realized that I could add a multi select series filter - to show the 2017 GDP ranking, 2030 GDP ranking, individually and together. This is something that I had not originally thought of, but I think it adds to the message. I am using the Y axis to show the countries and the X axis to show the GDP value in trillions. The first bar for each country is the 2030 projection value while the second one is the 
 
 There were a couple of things that I was unable to achieve with flourish. One was adding a color category by region. I added another column for region in the existing data but could not find the category option under stacked bar chart. So one idea that I could not represent in the final visualization was grouping the countries into - Asia, Eurasia, Europe, North America and South America. My main reason for this was to show how many Asian countries would be dominating the global GDP in 2030. 
 The other thing that I couldn't figure out was how to make the projection year 2030 - a dashed line in flourish. If that were possible, I would have added a legend for 2017 (Solid line) and 2030 (Dashed line). 
-
 
 
 
@@ -195,9 +193,16 @@ The other thing that I couldn't figure out was how to make the projection year 2
 
 In this visualization, I changed the bar charts into a single line chart. Since the idea was to show that Asia's GDP share has increased, I believe that is coming through well in the line chart and I can compare between the years as well. This was a relatively simple chart and I was happy with how it turned out. 
 
+
+
+<div class="flourish-embed flourish-table" data-src="visualisation/7782368"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I created this chart to show the rankings into a table instead of adding them into the original chart - to avoid the busyness. Sometimes, I think a table is a great way to show the data and it seemed intuitive here. I tried to add a bar chart to show the rank difference - One thing that I was unable to do was show the label for small numbers since they were not showing up. 
+
+
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7782241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racong bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
+I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racing bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
 The racing bar chart is definitely a very interactive way to visualize the ranking change. 
 
-
+Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. 
