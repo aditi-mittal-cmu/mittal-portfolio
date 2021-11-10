@@ -21,7 +21,7 @@ This chart was visually very appealing given the use of so many colours and imag
 
 When I first looked at the chart, my mind was automatically drawn to the solar system, the way each country was represented, use of colour and the galaxy effect. After spending a little more time, I got a sense of what was being represented. There were a few things that I found unnecessary, like the chart for India. Would economists be interested in those cities particularly? Are those the highest growing cities in the world or just India? Would a world map be better to show the scale of comparison? In terms of the data presented, the forecast was done by Standard Chartered, which seems like a credible source.  The chart seemed too long, there was a considerable amount of eye travel to have a look at all the countries. Though the text data added is very informative and presented neatly, I think it was a lot and could be trimmed down. I also found myself wondering a few things - like was there a specific reason for the choice of colours? Was the idea to use the flag colour? 
 
-<p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart represent the information around emerging markets, Asia's growth and furture prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one. To this point, I decided to use a bar chart to show the GDP values for the countries</p>
+<p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart representing the information around emerging markets, Asia's growth and future prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one. To this point, I decided to use a bar chart to show the GDP values for the countries</p>
 
 <p> When I delved deeper into the usefulness of the chart, it was apparent that one of the major highlights was how Asia's slice of the global GDP pie has risen over the years. Since I am not a big fan of pie charts - I would have gone for a pie/line chart here, showing the rise trend. 
 
@@ -178,14 +178,26 @@ chart beautiful but not helpful.</p>
 
 These are the visualizations that I redesigned using flourish. 
 
-<p>One thing that I couldn't figure out was how to make the projection dashed line in flourish.</p>
-
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7777395"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
+In this visualization, I used the stacked bar chart from flourish. While exploring different options, I realized that I could add a multi select series filter - to show the 2017 GDP ranking, 2030 GDP ranking, individually and together. This is something that I had not originally thought of, but I think it adds to the message. I am using the Y axis to show the countries and the X axis to show the GDP value in trillions. 
+
+
+There were a couple of things that I was unable to achieve with flourish. One was adding a color category by region. I added another column for region in the existing data but could not find the category option under stacked bar chart. So one idea that I could not represent in the final visualization was grouping the countries into - Asia, Eurasia, Europe, North America and South America. My main reason for this was to show how many Asian countries would be dominating the global GDP in 2030. 
+The other thing that I couldn't figure out was how to make the projection year 2030 - a dashed line in flourish. If that were possible, I would have added a legend for 2017 (Solid line) and 2030 (Dashed line). 
+
+
+
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/7777584"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+In this visualization, I changed the bar charts into a single line chart. Since the idea was to show that Asia's GDP share has increased, I believe that is coming through well in the line chart and I can compare between the years as well. This was a relatively simple chart and I was happy with how it turned out. 
 
-<h2></h2>
+<div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7782241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racong bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
+The racing bar chart is definitely a very interactive way to visualize the ranking change. 
+
 
