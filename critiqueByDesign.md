@@ -188,11 +188,9 @@ There were a couple of things that I was unable to achieve with flourish. One wa
 The other thing that I couldn't figure out was how to make the projection year 2030 - a dashed line in flourish. If that were possible, I would have added a legend for 2017 (Solid line) and 2030 (Dashed line). 
 
 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/7777584"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 In this visualization, I changed the bar charts into a single line chart. Since the idea was to show that Asia's GDP share has increased, I believe that is coming through well in the line chart and I can compare between the years as well. This was a relatively simple chart and I was happy with how it turned out. 
-
 
 
 <div class="flourish-embed flourish-table" data-src="visualisation/7782368"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -203,6 +201,6 @@ I created this chart to show the rankings into a table instead of adding them in
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/7782241"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 I created this visualization to show how the rankings of the country is projected to change in the year 2030. Here I used the racing bar chart and was able to also use color to categorize by region. I had originally not planned on adding this visualization but wanted to show how I envisioned the region grouping for my first visualization. 
-The racing bar chart is definitely a very interactive way to visualize the ranking change. 
+The racing bar chart is definitely a very interactive way to visualize the ranking change but the intent here was to show how the colours would have been minimized and how regions could have been grouped. 
 
-Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. 
+Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. Also, the colour effect used in the original visualization was too distracting, which was also eliminated here. I cut down on the information that was shown in the chart and added a title and subtitle instead for each of the visualization. My main idea was to use simple visualizations to convey the story. 
