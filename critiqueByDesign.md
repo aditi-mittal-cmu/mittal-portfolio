@@ -7,7 +7,7 @@
 
 <p>The visualization that I picked up for this assignment is a list of 10 world economies in 2030. The chart was featured as the chart of the week, in the weekly Visual Capitalist feature in January 2019. This was based on the forecast made by Standard Chartered, a multinational bank headquartered in London. The data for 2017 was taken from IMF's 2017 data source.</p>
 
-I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all higher up in the list than UK. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. 
+I particularly chose this visualization because of some of the surprises that came up in the story - the projection of India overtaking the US. Absence of UK in the top 10 list and countries such as Indonesia, Turkey, Egypt and Brazil all higher up in the list than UK. Additionally, the growth shown for Egypt was deemed ambitious when this article came out. Though this is an old article, I remember reading about it at the time the list was released. Also, I believe the idea that today’s emerging markets are tomorrow’s powerhouses was an interesting idea to take in. Since this is pre-pandemic data, it would also be interesting to see if any predictions have been affected because of COVID-19. 
 
 In terms of how the data was represented, I saw a lot of potential for following a different approach - changing the type of visualization, limiting the use of colours, and reducing/editing the text used on the chart. 
 
@@ -17,9 +17,17 @@ In terms of how the data was represented, I saw a lot of potential for following
 <p>The citique method that we used here analysed the following metrics : Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement.
 Overall, I think this visualization was a very informative one, the title and subtitle were simple but clear, but I would have rather used a different mode of visualization. In partcular, the critique helped me better articulate how I would like to proceed with the modifications. </p>
 
-<p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart represent the information around emerging markets, Asia's growth and furture prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one.</p>
+This chart was visually very appealing given the use of so many colours and images but that was one of the things that I found very distracting too. I was immediately drawn to learn how India was projected to rank above the US, so in that regard the chart definitely got me more interested in the data presented. 
+
+When I first looked at the chart, my mind was automatically drawn to the solar system, the way each country was represented, the descending order, use of colour and the galaxy effect. After spending a little more time, I got a sense of what was being represented. There were a few things that I found unnecessary, like the chart for India. Would economists be interested in those cities particularly? Are those the highest growing cities in the world or just India? Would a world map be better to show the scale of comparison? In terms of the data presented, the forecast was done by Standard Chartered, which seems like a credible source.  The chart seemed too long, there was a considerable amount of eye travel to have a look at all the countries. Though the text data added is very informative and presented neatly, I think it was a lot and could be trimmed down. I also found myself wondering a few things - like was there a specific reason for the choice of colours? Was the idea to use the flag colour? 
+
+<p>Once I was able to discern who the chart was intended for, I realized it made more sense to have a simple chart represent the information around emerging markets, Asia's growth and furture prediction and the change in countries rank into the projected year. I would assume that Economists would rather prefer a simple, concise chart to a ostensible one. To this point, I decided to use a bar chart to show the GDP values for the countries</p>
+
+<p> When I delved deeper into the usefulness of the chart, it was apparent that one of the major highlights was how Asia's slice of the global GDP pie has risen over the years. Since I am not a big fan of pie charts - I would have gone for a pie/line chart here, showing the rise trend. 
 
 
+There are a couple of things that I would do differently, which I tried to incorporate into the wireframes below. 
+Firstly, I would go for a stacked bar chart to represent both the 2017 GDP and 2030 GDP projections for the 10 countries. I personally find that bar charts are very effective to show ranks and an overall data comparison across years. Secondly, I would also use a bar chart to show the growth of Asia's GDP over the years into the 2030 projection.  While the pie chart is also working in this case, but in case the number of years were greater than three, I think the bar chart would be easier to comprehend. And lastly, I limited the use of colours and grouped them by region. Some of the messages that were stressed upon was how Asia's slice of the global GDP is increasing - this would be more intuitive if the countries in Asia were the same colour. 
 
 
 <h2>Step three: wireframe a solution</h2>
@@ -28,12 +36,19 @@ Overall, I think this visualization was a very informative one, the title and su
 
 <p><b>Wireframe 1</b></p>
 
-<p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
+<p>My thought process here was to see how the data could be represented as a stacked column bar - countries on the y-axis and GDP on the x-axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
+
+![image](https://user-images.githubusercontent.com/93219887/141032196-f37a4a38-82fb-4193-b9c3-4db9fc109989.png)
 
 
 <p><b>Wireframe 2</b></p>
 
 <p>My thought process here was to further use colours to show how the regions are doing data could be represented as a stacked column bar - countries on the y-axis and GDP on the x.axis. Then I began thinking about how I wanted to differentiate between existing data and projected data. I used dashed line to show the 2030 projections and a solid line for the 2017 projections.</p>
+
+![IMG_3624](https://user-images.githubusercontent.com/93219887/141032398-f2cec62f-5168-4f62-af2c-d768214aa109.jpg)
+
+
+<p><b>Affter incorporating the feedback from people, I created a few more wireframes to test them out</b></p>
 
 <h2>Step four: Test the solution</h2>
 
@@ -144,18 +159,11 @@ chart beautiful but not helpful.</p>
 	 <li>1.  Adding a different representation for India map</li>
  </ol>
 </p>
-   
-       
- <p> You should include a any insights you gained from the critique method, and what it led you to think about when considering a redesign, 
- if anything.  You should talk about how you moved next to the wireframes, and any insights you gleaned from your user feedback. 
- Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows,
- why you selected the data visualization you did, and what you attempted to show or do differently. 
-
-Include screenshots of your wireframes or other artifacts with your narrative to help tell the story of how you moved through the process.  
-Make sure to avoid including any personally identifying information about your interviewees (don't list their full names, etc.). </p>
-
+  
 
 <h2>Step five: Build your solution</h2>
+
+These are the visualizations that I redesigned using flourish. 
 
 <p>One thing that I couldn't figure out was how to make the projection dashed line in flourish.</p>
 
