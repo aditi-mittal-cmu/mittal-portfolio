@@ -8,7 +8,7 @@ I know that a lot has already been said about "Gender inequality", "Pay gaps" et
 
 Very recently, a friend of mine shared this article with me "https://www.independent.co.uk/news/business/news/gender-inequality-man-woman-switch-names-week-martin-schneider-nicky-knacks-pay-gap-a7622201.html?amp". This was published in 2017, where in a man and a woman switched their email signatures and the differences in how they were perceived/ treated was hard to ignore. What was surprising about this article? Nothing, actually. I remember thinking, "That makes sense, I've always had to work harder - to be acknowledged, respected". Things have not changed much since 2017 for women in the workplace.
 
-Now, if look at all the countries and their rankings from best to worst - we see the four Nordic countries, Iceland, Norway, Finland, and Sweden at the top. Again, this doesn't come as a shock because all these countries have a high happiness index too. Could gender equality drive happiness index? Let's find out. 
+Now, if we look at all the countries and their rankings from best to worst - we see the four Nordic countries, Iceland, Norway, Finland, and Sweden at the top. Again, this doesn't come as a shock because all these countries have a high happiness index too. Could gender equality drive happiness index? Let's find out. 
 
 Eventually, I would be diving deeper into the gender gap prevalent in the Tech industry, discussing typically the scenario in the US and India. 
 
