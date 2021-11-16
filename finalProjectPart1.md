@@ -41,10 +41,10 @@ Parting thoughts. What actions can we collectively take? This is the call to act
 
 <h2>Sketches</h2>
 
-	1. What parameters drive Gender Inequality (GI)?
-	2. Top performing countries - what countries are gender equal?
-	3. Gender Gap in Tech
-  4. Where are we heading - optimism around gender equality?
+ 1. What parameters drive Gender Inequality (GI)?
+ 2. Top performing countries - what countries are gender equal?
+ 3. Gender Gap in Tech
+ 4. Where are we heading - optimism around gender equality?
 
 <h2>Data</h2>
 
