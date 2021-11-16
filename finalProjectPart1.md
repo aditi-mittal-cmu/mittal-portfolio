@@ -45,19 +45,19 @@ Currently these sketches are just an overall idea of the what kind of data repre
 
  1. What parameters drive Gender Inequality (GI)?
  
- ![Sketch 1]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%201.jpg
+ ![Sketch 1](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%201.jpg)
  
  2. Top performing countries - what countries are gender equal?
  
- ![Sketch 2]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%202.jpg
+ ![Sketch 2](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%202.jpg)
  
  Where is India heading?
    
- ![Sketch 3]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%204.jpg
+ ![Sketch 3](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%204.jpg)
  
  3. Gender Gap in Tech
 
-![Sketch 4]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%203.jpg
+![Sketch 4](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%203.jpg)
 
  4. Where are we heading - optimism around gender equality?
     General discussion on where we are heading - number of years it would take to close out on the gender gap across different regions.
