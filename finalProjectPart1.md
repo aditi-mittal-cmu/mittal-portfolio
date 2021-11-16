@@ -41,10 +41,26 @@ Parting thoughts. What actions can we collectively take? This is the call to act
 
 <h2>Sketches</h2>
 
+Currently these sketches are just an overall idea of the what kind of data representations I'd like to do. Will be refining them once I start working with the datasets.
+
  1. What parameters drive Gender Inequality (GI)?
+ 
+ ![Sketch 1]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%201.jpg
+ 
  2. Top performing countries - what countries are gender equal?
+ 
+ ![Sketch 2]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%202.jpg
+ 
+ Where is India heading?
+   
+ ![Sketch 3]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%204.jpg
+ 
  3. Gender Gap in Tech
+
+![Sketch 4]https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/sketch%203.jpg
+
  4. Where are we heading - optimism around gender equality?
+    General discussion on where we are heading - number of years it would take to close out on the gender gap across different regions.
 
 <h2>Data</h2>
 
@@ -57,11 +73,13 @@ https://www.oecd.org/gender/data/ - This has the data on employment per gender a
 http://hdr.undp.org/en/indicators/101706 (United Nations Development Programme) 
 I would be using the inequality in income dataset from this site. This has the information from 2010 - 2019 across countries. 
 
-
 https://worldpopulationreview.com/country-rankings/gender-equality-by-country (Country ranking data) This site includes the data for each country and where they stand on the gender equality scale. 
 
 
-https://www.wipo.int/global_innovation_index/en/2020/ The global innovation index measures the success of each country and
+https://www.wipo.int/global_innovation_index/en/2020/ The global innovation index measures the success of each country. 
+
+
+https://www.bls.gov/cps/cpsaat11.htm This has the dataset on the number of Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity. I would be using this to show the gender gap in tech industry. 
 
 These are some preliminary data sources that I could find, which would allow me to implement the sketches above. 
 
