@@ -24,8 +24,7 @@ Here's a peek into my work.
 [Assignment 3 & 4: Critique by Design](critiqueByDesign.md)
 
 
-
-Final Project
+[Final Project Part-1](finalProjectPart1.md)
 
 
 
