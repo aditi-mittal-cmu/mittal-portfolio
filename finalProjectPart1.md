@@ -17,14 +17,14 @@ The ultimate aim of this project is to highlight the gender inequality existing 
 <i>Project Structure</i>
 
 In general, I would like start with an overview of how the Global Gender Gap Index  Index is measured and talk about the different parameters. The index measures inequality in achievements between women and men across the below dimensions.
-	• Economic Participation and Opportunity
-	• Educational Attainment
-	• Health and Survival
-	• Power Empowerment
+ 1. Economic Participation and Opportunity
+ 2. Educational Attainment
+ 3. Health and Survival
+ 4. Power Empowerment
 
 Then I would like to go into the global rankings - where do the countries stand on gender equality? An analysis of the last 5-10 years. 
-	• What countries are considered high performers in tech or consulting? Looking at their innovation index and their correlation with gender equality?
-	• Looking at the correlation of happiness index and gender equality? 
+ 1. What countries are considered high performers in tech or consulting? Looking at their innovation index and their correlation with gender equality?
+ 2. Looking at the correlation of happiness index and gender equality? 
 
 Has the pandemic exacerbated this gap? An analysis of the worst hit countries. 
 I remember reading an article from McKinsey Global Institute that estimates that women have suffered more than half of total job losses from the crisis, even though they make only two-fifths of the global labour force. This was an alarming statistic. 
