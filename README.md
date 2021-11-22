@@ -27,4 +27,7 @@ Here's a peek into my work.
 [Final Project Part-1](finalProjectPart1.md)
 
 
+[Final Project Part-2](finalProjectPart2.md)
+
+
 
