@@ -4,7 +4,7 @@
 
 As outlined in part 1, I used "Shorthand" for storyboarding my story arc. The storyboard can be accessed at 
 
-<h2><i>User Research</i><h2>
+<h2><i>User Research</i></h2>
 
 <h3>User research protocol</h3>
   
