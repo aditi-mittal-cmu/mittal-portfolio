@@ -33,8 +33,6 @@ To create the interview script, I employed the critique method that we used in "
 <p><i> I really enjoyed this exercise. Having done this before, I was a little more confident this time and less jittery. I was excited to share this story outline and see if the message was persuasive. I solicited feedback from three people who I am going to call Person 1, Person 2 and Person 3. Each person fit the demographic I initially identified for my target audience Everything mentioned in "" are direct quotes. </i></p>
  
 <h3><b> Person 1</b></h3>
-<p><b> Could you tell me what you think this visualization is?</b></p>
-<p><i>""</i></p>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>""</i></p>
@@ -65,8 +63,6 @@ To create the interview script, I employed the critique method that we used in "
 <p><i>""</i></p>
 
 <h3><b> Person 2</b></h3>
-<p><b> Could you tell me what you think this visualization is?</b></p>
-<p><i>""</i></p>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>""</i></p>
@@ -98,8 +94,6 @@ To create the interview script, I employed the critique method that we used in "
 
 
 <h3><b> Person 3</b></h3>
-<p><b> Could you tell me what you think this visualization is?</b></p>
-<p><i>""</i></p>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>""</i></p>
