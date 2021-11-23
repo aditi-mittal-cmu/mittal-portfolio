@@ -11,7 +11,7 @@ As outlined in part 1, I used "Shorthand" for storyboarding my story arc. The st
 <h4>Target Audience</h4>
 Through this project, I intend to highlight the extent of gender inequality existent in the world,  especially in the Tech industry. The target audience for my project is     "everyone". I think it is easy to become oblivious to this gender disparity, if it is something that we have not faced or if we come from a country which is not particularly low on the Gender Inequality Index. During the research for this project, I was myself alarmed at a lot of statistics - 
     
-To further elaborate on who I mean by "everyone". It was important to get a mixed reaction of both "Men" and "Women", of varying ages - in their adult career. 
+To further elaborate on who I mean by "everyone". It was important to get a mixed reaction of both "Men" and "Women", of varying ages - in their career. 
 Due to the focus on the Tech industry, I wanted to interview women who have worked in the tech/consulting industry - to get their opinion on whether they have faced or seen gender bias. I also wanted to interview men, to understand if they were conscious of their surroundings and noticed some of these differences. I really hope that my message resonates with everyone at the level I feel is necessary to draw more attention. I also hope that this exercise gets people thinking how can they play a part in building a more just environment for women. 
   
   
