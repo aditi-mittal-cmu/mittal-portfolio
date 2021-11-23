@@ -122,7 +122,7 @@ To create the interview script, I employed the critique method that we used in "
 <p><b>Is there anything you would change or do differently?</b></p>
 <p><i>Person 1 mentioned two changes
   <ol type="1">
-  <li>""</l
+	  <li>""</li>
   <li>""</li>
 </ol></i></p>
 
