@@ -17,11 +17,15 @@ Due to the focus on the Tech industry, I wanted to interview women who have work
   
 Identifying Interview Candidates
 In line with the description above of my target audience, I sought out individuals from came from different ethnic backgrounds with some corporate experience. My aim was to get as many diverse demographics as I could for the interview. This was my initial thought process for selecting candidates. I reached out to friends and friends of friends here.
-	• Gender - All
-	• Race - All
-	• Age: 22 onwards
-	• Worked in a corporate setting - Yes
-	• Country of Residence: Any
+<p>
+  <ol type="1">
+	  <li>Gender - All</li>
+  	  <li>Race - All</li>
+	  <li>Age: 22 onwards</li>
+	  <li>Worked in a corporate setting - Yes</li>
+	  <li>Country of Residence: Any</li>
+</ol></p>
+	
 
 Interview Script
 To create the interview script, I employed the critique method that we used in "Assignment 3 & 4: Critique by Design" as I really liked the metrics that were evaluated, namely Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement
