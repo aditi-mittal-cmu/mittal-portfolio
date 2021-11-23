@@ -151,6 +151,15 @@ To create the interview script, I employed the critique method that we used in "
     </ol>
 </p>
 
+<p><b>Things I would be incorporating from the feedback and refining for the final presentation. </b>
+   <ol type="1">
+     <li>Layout and the use of pictures.</li>
+     <li> </li>
+     <li></li>
+     <li></li> 
+    </ol>
+</p>
+
 <p><b>Things that I believe are "Good to haves" but may not align with the current project scope. </b>
    <ol type="1">
      <li> </li>
