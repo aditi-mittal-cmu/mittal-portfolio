@@ -36,32 +36,31 @@ To create the interview script, I employed the critique method that we used in "
 <h3><b> Person 1</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
-<p><i>""</i></p>
+<p><i>"That having better equality between genders has a good return-of-investment for countries and companies, but many leading countries are still missing out."</i></p>
 
 <p><b> Is there anything you find surprising or confusing?</b></p>
-<p><i>""</i></p>
+<p><i>"It surprised me to not see America in the list of countries with the gender gap."</i></p>
 
 <p><b>Who do you think is the intended audience for this?</b></p>
-<p><i>""</i></p>
+<p><i>"People who are unaware of how current gender inequality is globally."</i></p>
 
 <p><b>Did you find the aesthetics soothing and complimentary or is there anything that you would like to change?</b></p>
-<p><i>""</i></p>
+<p><i>"I would like to see the information broken up better."</i></p>
 
 <p><b>Is there enough persuasive information in the storyboard? If not, is there something else you'd like me to explore and add?</b></p>
-<p><i>""</i></p>
+<p><i>"Having the US highlight might help in showing comparisons for the global data."</i></p>
 
 <p><b>If you were to provide a one sentence summary of what you're seeing, what would it be?</b></p>
-<p><i>""</i></p>
+<p><i>"Gender equality is a profitable approach, in both finances and in community."</i></p>
 
 <p><b>Is there anything you would change or do differently?</b></p>
 <p><i>Person 1 mentioned two changes
   <ol type="1">
-	  <li>""</li>
-  <li>""</li>
+	  <li>"I would add some more section headers"</li>
 </ol></i></p>
 
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
-<p><i>""</i></p>
+<p><i>"I did learn that quite a few countries are doing a better job than the US, and would be interested to learn how large that difference is."</i></p>
 
 <h3><b> Person 2</b></h3>
 
