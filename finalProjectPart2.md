@@ -2,7 +2,7 @@
 
 <h2><i>Wireframe/Storyboarding</i></h2>
 
-As outlined in part 1, I used "Shorthand" for storyboarding my story arc. The storyboard can be accessed at 
+As outlined in part 1, I used "Shorthand" for storyboarding my story arc. The storyboard can be accessed at https://preview.shorthand.com/uFd0AR0o0Rklg7xJ
 <script src="https://carnegiemellon.shorthandstories.com/a-woman-in-tech/embed.js"></script>
 
 <h2><i>User Research</i></h2>
