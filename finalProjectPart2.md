@@ -65,28 +65,27 @@ To create the interview script, I employed the critique method that we used in "
 <h3><b> Person 2</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
-<p><i>""</i></p>
+<p><i>"Information on the gender gap in different countries. Yes, this visualization is for awareness. "</i></p>
 
 <p><b> Is there anything you find surprising or confusing?</b></p>
-<p><i>""</i></p>
+<p><i>"What's the unit for lowest gender gap for the countries and the India and Us gender gap be done on the same chart to show comparison"</i></p>
 
 <p><b>Who do you think is the intended audience for this?</b></p>
-<p><i>""</i></p>
+<p><i>"Any stakeholder who might be making policies or at a leadership position who can make an impact."</i></p>
 
 <p><b>Did you find the aesthetics soothing and complimentary or is there anything that you would like to change?</b></p>
-<p><i>""</i></p>
+<p><i>"It’s good."</i></p>
 
 <p><b>Is there enough persuasive information in the storyboard? If not, is there something else you'd like me to explore and add?</b></p>
-<p><i>""</i></p>
+<p><i>"Add more information on how can we bridge the gap and on the impact it would that have on socio economic etc"</i></p>
 
 <p><b>If you were to provide a one sentence summary of what you're seeing, what would it be?</b></p>
 <p><i>""</i></p>
 
 <p><b>Is there anything you would change or do differently?</b></p>
-<p><i>Person 1 mentioned two changes
+<p><i>Person 2 mentioned two changes
   <ol type="1">
-	  <li>""</li>
-  <li>""</li>
+  <li>"either make it more personal and add stories since it’s titled  perspective - or change title to more general"</li>
 </ol></i></p>
 
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
