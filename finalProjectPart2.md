@@ -33,7 +33,7 @@ To create the interview script, I employed the critique method that we used in "
 
 <p><i> I really enjoyed this exercise. Having done this before, I was a little more confident this time and less jittery. I was excited to share this story outline and see if the message was persuasive. I solicited feedback from three people who I am going to call Person 1, Person 2, Person 3, Person 4. Each person fit the demographic I initially identified for my target audience Everything mentioned in "" are direct quotes. </i></p>
  
-<h3><b> Person 1</b></h3>
+<h3><b> Person 1 (Male)</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>"That having better equality between genders has a good return-of-investment for countries and companies, but many leading countries are still missing out."</i></p>
@@ -62,7 +62,7 @@ To create the interview script, I employed the critique method that we used in "
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
 <p><i>"I did learn that quite a few countries are doing a better job than the US, and would be interested to learn how large that difference is."</i></p>
 
-<h3><b> Person 2</b></h3>
+<h3><b> Person 2 (Female)</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>"Information on the gender gap in different countries. Yes, this visualization is for awareness. "</i></p>
@@ -92,7 +92,7 @@ To create the interview script, I employed the critique method that we used in "
 <p><i>"Though the gender gap is not something new, I was surprised that it would take us 100 years to close it. Some of the statistics mentioned were intriguing."</i></p>
 
 
-<h3><b> Person 3</b></h3>
+<h3><b> Person 3 (Female)</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>"It's highlighting the gender disparity in the world."</i></p>
@@ -124,7 +124,7 @@ To create the interview script, I employed the critique method that we used in "
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
 <p><i>"I was aware of the fact that this is a problem but the facts and figures took me by surprise. I have faced this at work but I was not aware of the magnitude of the problem."</i></p>
 
-<h3><b> Person 4</b></h3>
+<h3><b> Person 4 (Male)</b></h3>
 
 <p><b> Could you describe to me what this is telling you? Does this visualization tell a story?</b></p>
 <p><i>"I understand the point that you’re trying to drive - the lack of gender equality"</i></p>
