@@ -80,16 +80,16 @@ To create the interview script, I employed the critique method that we used in "
 <p><i>"Add more information on how can we bridge the gap and on the impact it would that have on socio economic etc"</i></p>
 
 <p><b>If you were to provide a one sentence summary of what you're seeing, what would it be?</b></p>
-<p><i>""</i></p>
+<p><i>"A man's world"</i></p>
 
 <p><b>Is there anything you would change or do differently?</b></p>
 <p><i>Person 2 mentioned two changes
   <ol type="1">
-  <li>"either make it more personal and add stories since it’s titled  perspective - or change title to more general"</li>
+  <li>"Either make it more personal and add stories since it’s titled  perspective - or change title to something more general"</li>
 </ol></i></p>
 
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
-<p><i>""</i></p>
+<p><i>"Though the gender gap is not something new, I was surprised that it would take us 100 years to close it. Some of the statistics mentioned were intriguing."</i></p>
 
 
 <h3><b> Person 3</b></h3>
@@ -139,14 +139,12 @@ To create the interview script, I employed the critique method that we used in "
 <b>What new inspiration arose?</b>
 <p><i></i></p>
 
-<p> Once I got the feedback for my storyboard, I believe that the main idea __________________ </p>
+<p> Once I got the feedback for my storyboard, I believe that the main idea of the story was coming - highlighting the prevalent gender inequality existing worldwide.</p>
 
 <p><b>Things I would like to incorporate from the feedback. </b>
    <ol type="1">
-     <li>Using the same chart to show both India and US's ranking over the years. I had originally added a toggle, which did seem unnecessary.</li>
-     <li> </li>
-     <li></li>
-     <li></li> 
+     <li>Using the same chart to show both India and US's ranking over the years. I had originally added a toggle, which seemed unnecessary.</li>
+     <li>I removed the concept of showing happiness index and it's correlation with gender equality as per the feedback from Part I - to concentrate the ideas together.</li>
     </ol>
 </p>
 
