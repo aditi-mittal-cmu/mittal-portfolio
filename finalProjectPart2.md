@@ -147,7 +147,7 @@ In the section - ‘How is gender gap measured?’, you have mentioned - a) Heal
 <p><i>"Women and men are just as dissimilar as curry and rice, but just as effective in combination. Let’s strive to achieve that winning combination."</i></p>
 
 <p><b>Is there anything you would change or do differently?</b></p>
-<p><i>Take lesser number of countries in the two graphs and have a paragraph explaining the statistics using 1-2 countries. That would make the point clearer and persuade the reader. </i></p>
+<p><i>"Take lesser number of countries in the two graphs and have a paragraph explaining the statistics using 1-2 countries. That would make the point clearer and persuade the reader."</i></p>
 
 <p><b>Did you learn something new and are you inspired to learn more about this topic?</b></p>
 <p><i>"I liked the statistic about the global GDP, would definitely like to explore on how McKinsey came up with this. 
