@@ -29,7 +29,7 @@ In line with the description above of my target audience, I sought out individua
 	
 
 Interview Script
-To create the interview script, I employed the critique method that we used in "Assignment 3 & 4: Critique by Design" as I really liked the metrics that were evaluated, namely Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement
+<p>To create the interview script, I employed the critique method that we used in "Assignment 3 & 4: Critique by Design" as I really liked the metrics that were evaluated, namely Usefulness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics and Engagement</p>
 
 <p><i> I really enjoyed this exercise. Having done this before, I was a little more confident this time and less jittery. I was excited to share this story outline and see if the message was persuasive. I solicited feedback from three people who I am going to call Person 1, Person 2, Person 3, Person 4. Each person fit the demographic I initially identified for my target audience Everything mentioned in "" are direct quotes. </i></p>
  
