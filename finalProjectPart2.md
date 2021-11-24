@@ -143,7 +143,7 @@ To create the interview script, I employed the critique method that we used in "
 
 <p><b>Things I would like to incorporate from the feedback. </b>
    <ol type="1">
-     <li></li>
+     <li>Using the same chart to show both India and US's ranking over the years. I had originally added a toggle, which did seem unnecessary.</li>
      <li> </li>
      <li></li>
      <li></li> 
