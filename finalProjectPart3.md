@@ -41,7 +41,7 @@ I used a population pyramid chart to highlight the difference between the impact
 <p><i>Another feedback I had received was that there was some inconsistency in the colouring scheme of the two bar charts and the bifurcation via regions was not coming across. This was actually because of an oversight while setting the custom colours, so I corrected that and to highlight European countries I went a shade darker than the original pastel pink.</i></p>
 
 <p><i>I had incorporated most of the feedback from the interviews in my part 2 submission, some of them were left because of time constraints.</i></p>
- <p></br>These were the pending items:</p>
+ <p>These were the pending items:</p>
    <ul>
         <li><b>Layout and the use of pictures</b> - I made changes to the layout, added slicers, changed the images to use creative commons license images.</li>
         <li><b>Adding some more context on the correlation between the two bar graphs</b> - I added a link to a paper that actually talks about the correlation. </li>
