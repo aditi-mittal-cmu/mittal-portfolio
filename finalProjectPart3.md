@@ -95,7 +95,7 @@ I used a population pyramid chart to highlight the difference between the impact
   
   <p><i>*Icons were taken from Microsoft PowerPoint except the icons used for Global Gender Index determinants which was directly taken from WHO, cited in references.</i></p>
   
-  <p><i>Image Credits (Under Creatives Common License used in the card layout)</i></p>
+  <p><i><b>Image Credits (Under Creatives Common License used in the card layout)</b></i></p>
   <p><i>A girl in Class by GPE/Carolina Valenzuela is licensed under CC BY-NC-NO 2.0</i></p>
   <p><i>Signing a Petition by artfulactivist is licensed under CC BY-NC-SA 2.0</i></p>
   <p><i>Speak up, make your voice heard by HowardLake is licensed under CC BY-NC-SA</i></p>
