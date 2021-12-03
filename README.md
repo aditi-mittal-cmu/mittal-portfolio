@@ -47,7 +47,9 @@ Here's a peek into my work.
 [Final Project Part-3](finalProjectPart3.md)
 
 
+
 <p><b><i>Final Project Story</i></b></p>
+
 Here's a [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html) to the final story 
 
 
