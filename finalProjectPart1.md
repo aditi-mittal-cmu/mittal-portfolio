@@ -90,3 +90,6 @@ I would like to explore Shorthand for the storytelling part. I really like how i
 
 In terms of progressing forward, I plan to clean up some of the data that I found online and convert it into a format that I could use. I would also start building the initial visualizations using flourish and tableau. Parallelly , I would also be doing some more research to identify if there are any other data sources or story ideas that I could incorporate into my main story. I would also be building my story using shorthand based on my project outline and sketches. 
 
+
+Here's a link to [Part II](finalProjectPart2.md)
+
