@@ -29,22 +29,22 @@ Here's a peek into my work.
 
 <b><i>Assignments</i></b>
 
-[Go to Assignment 1: Visualizing government debt](government-debt.md)
+[Assignment 1: Visualizing government debt](government-debt.md)
 
 
-[Go to Assignment 3 & 4: Critique by Design](critiqueByDesign.md)
+[Assignment 3 & 4: Critique by Design](critiqueByDesign.md)
 
 
 <b><i>Project</i></b>
 
 
-[Go to Final Project Part-1](finalProjectPart1.md)
+[Final Project Part-1](finalProjectPart1.md)
 
 
-[Go to Final Project Part-2](finalProjectPart2.md)
+[Final Project Part-2](finalProjectPart2.md)
 
 
-[Go to Final Project Part-3](finalProjectPart3.md)
+[Final Project Part-3](finalProjectPart3.md)
 
 
 
