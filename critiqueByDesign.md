@@ -204,3 +204,5 @@ The racing bar chart is definitely a very interactive way to visualize the ranki
 
 
 <p>Overall, I found that breaking down the original visualization into seperate visualizations helped to highlight each aspect of the article without adding too much information into one single chart. I completely eliminated the India map from my visualization since the information shown seemed extraneous and the growth % was derivable from the other data. Also, the colour effect used in the original visualization was too distracting, which was also eliminated here. I cut down on the information that was shown in the chart and added a title and subtitle instead for each of the visualization. My main idea was to use simple visualizations to convey the story. </p>
+
+Go back to previous assignment - [Government Debt Critique](government-debt.md)
