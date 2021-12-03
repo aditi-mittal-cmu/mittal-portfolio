@@ -94,4 +94,13 @@ I used a population pyramid chart to highlight the difference between the impact
 <p><i>*All the Images are either free (available for free distribution)/ taken by me or licensed under the Creatives Credit License and have been credited to the author below each image (specially for the images used in the card layout). These images have been taken from Creatives Common, Flickr, PikWizard, Pexels.</i></p>
   
   <p><i>*Icons were taken from Microsoft PowerPoint except the icons used for Global Gender Index determinants which was directly taken from WHO, cited in references.</i></p>
+  
+  <p><i>Image Credits (Under Creatives Common License used in the card layout)</i></p>
+  <p>A girl in Class by GPE/Carolina Valenzuela is licensed under CC BY-NC-NO 2.0</p>
+  <p>Signing a Petition by artfulactivist is licensed under CC BY-NC-SA 2.0</p>
+  <p>Speak up, make your voice heard by HowardLake is licensed under CC BY-NC-SA</p>
+  
+  
+  
+  
 
