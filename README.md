@@ -3,8 +3,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 
 # About me
 
-
- ![Me]
+![Me](https://github.com/aditi-mittal-cmu/mittal-portfolio/blob/main/me.jpg)
 
 Hello, there! I am Aditi (She/Her/Hers), a Masters of Information Systems Management student at Carnegie Mellon University.
 
@@ -46,5 +45,9 @@ Here's a peek into my work.
 
 
 [Final Project Part-3](finalProjectPart3.md)
+
+
+<b><i>Final Project Story</i></b>
+Here's a [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html) to the final story 
 
 
