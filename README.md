@@ -30,4 +30,6 @@ Here's a peek into my work.
 [Final Project Part-2](finalProjectPart2.md)
 
 
+[Final Project Part-3](finalProjectPart3.md)
+
 
