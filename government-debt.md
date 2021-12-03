@@ -44,3 +44,5 @@ I believe that these details were missing in the first and second charts. The ba
 <p>I consciously removed the "ALL" option from the filter since that looked too crowded due to the data points, but if we had to compare a few countries and perhaps decrease the timeframe - say 2017-2021, I believe this scatter plot could have been even richer- in terms of being able to compare the countries well via "ALL" options. </p>
 
 
+
+Go to next assignment - [Critique by Design](critiqueByDesign.md)
