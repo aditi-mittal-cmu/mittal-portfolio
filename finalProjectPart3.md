@@ -1,13 +1,13 @@
 <h1>Part III: Final project and presentation</h1>
 
-<h2>How it started</h2>
+<h2>How it started?</h2>
 <p>Here's a link to go back to the [Part I](finalProjectPart1.md) of my project. This was the brainstorming phase - a high level project idea, project structure, data sources.</p>
 
-<h2>How it progressed</h2>
-<p>Here's a link to go back to the [Part II](finalProjectPart1.md) of my project. This was the implementation phase, to finally put my thoughts into motion. I went through several iterations here. I used shorthand to build the story arc. This primarily included storyboarding and user research. </p>
+<h2>How it progressed?</h2>
+<p>Here's a link to go back to the [Part II](finalProjectPart2.md) of my project. This was the implementation phase, to finally put my thoughts into motion. I went through several iterations here. I used shorthand to build the story arc. This primarily included storyboarding and user research. </p>
 
-<h2>How it ended</h2>
-<p>To access my final story, click on this [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html)<p>
+<h2>How it ended?</h2>
+<p>To access my final story, click on this [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html)</p>
 
 <h3><i>Audience for the project</i></h3>
 
