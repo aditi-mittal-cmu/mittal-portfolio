@@ -1,4 +1,4 @@
-<i><h1>Part III: Final project and presentation</h1>
+<h1>Part III: Final project and presentation</h1>
    
    <p>This final project allowed me to apply everything I had learned in the course, explore flourish to create different visualizations, shorthand for creating the data story. The intent of choosing the topic "Make <i>IT</i>Equal" was to pick up something that mattered to me. This entire process has been educative, interesting and enlightning. From soliciting feedback from different people, to preparing a 1 min presentation of something that took weeks of work was definitely exciting.</p>
 
@@ -91,5 +91,5 @@ Overall, I am happy that I was able to stick with my original idea and the proce
    
 <p>*All the Images are either free/ taken by me or licensed under the Creatives Credit License and have been credited to the author below each image (specially for the images used in the card layout). These images have been taken from Creatives Common, Flickr, PikWizard, Pexels.</p>
   
-  <p>*Icons were taken from Microsoft PowerPoint except the icons used for Global Gender Index determinants which was directly taken from WHO, cited in references.</p></i>
+  <p>*Icons were taken from Microsoft PowerPoint except the icons used for Global Gender Index determinants which was directly taken from WHO, cited in references.</p>
 
