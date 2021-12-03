@@ -15,7 +15,7 @@
 
 <p>Since the scope of my audience  was large, and was not targeted, the key things that I thought about while revising was whether it all flew together and made sense. 
 
-I didn't have a single persona for my target audience - the reason being that gender equality is not limited by boundaries. I kept my demographics diverse - An American male, An Asian male and two Asian women. I think my message was relevant to everyone - in the sense that all of us need to be more aware of what the situation. I would have liked to get more feedback but due to the lack of time, it weren't possible - however, it was unequivocally clear that there was a general lack of awareness around some of the statistics concerning gender equality. 
+I didn't have a single persona for my target audience - the reason being that gender equality is not limited by boundaries. I kept my demographics diverse - An American male, An Asian male and two Asian women. I think my message was relevant to everyone - in the sense that all of us need to be more aware of what the situation. I would have liked to get more feedback but due to the lack of time, it wasn't feasible. However, it was unequivocally clear that there was a general lack of awareness around some of the statistics concerning gender equality. 
 
 Further, based on the feedback on what next steps could the audience take, I suggested several Call to Actions - including a list of Non-for profits, petitions.</p>
 
@@ -23,7 +23,7 @@ Further, based on the feedback on what next steps could the audience take, I sug
 
 <p>There were a couple of changes that I made to my Part 2 submission. 
 
-Based on the feedback from the TA, I added two graphs to substantiate how COVID particularly hit India and exacerbated the gender gap, causing a drop of 38 ranks. 
+Based on the feedback from the TA, I added two graphs to substantiate how COVID particularly hit India and exacerbated the gender gap, causing a drop of 28 ranks. 
 I used a population pyramid chart to highlight the difference between the impact of covid on Indian women and around the world. For the umemployment rates, I used a normal bar chart.
 
 Again, based on the feedback received from the professor, I tried to incorporate iconography to show certain statistics and parameters. 
