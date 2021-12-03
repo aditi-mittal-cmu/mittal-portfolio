@@ -1,4 +1,6 @@
 <i><h1>Part III: Final project and presentation</h1>
+   
+   <p>This final project allowed me to apply everything I had learned in the course, explore flourish to create different visualizations, shorthand for creating the data story. The intent of choosing the topic "Make <i>IT</i>Equal" was to pick up something that I mattered to me.</p>
 
 <h2>How it started?</h2>
 <p>Here's a link to go back to the [Part I](finalProjectPart1.md) of my project. This was the brainstorming phase - a high level project idea, project structure, data sources.</p>
@@ -22,7 +24,7 @@ Further, based on the feedback on what next steps could the audience take, I sug
 <p>There were a couple of changes that I made to my Part 2 submission. 
 
 Based on the feedback from the TA, I added two graphs to substantiate how COVID particularly hit India and exacerbated the gender gap, causing a drop of 38 ranks. 
-I used 
+I used a population pyramid chart to highlight the difference between the impact of covid on Indian women and around the world. For the umemployment rates, I used a normal bar chart.
 
 Again, based on the feedback received from the professor, I tried to incorporate iconography to show certain statistics and parameters. 
 This really made the visualization more appealing. 
@@ -40,7 +42,7 @@ I also added the literacy rate column for the top 25 countries Gender Gap Index 
 Another feedback I had received was that there was some inconsistency in the colouring scheme of the two bar charts and the bifurcation via regions was not coming across. This was actually because of an oversight while setting the custom colours, so I corrected that and to highlight European countries I went a shade darker than the original pastel pink. 
 
 I had incorporated most of the feedback from the interviews in my part 2 submission, some of them were left because of time constraints.
-   </br>These were the pending items
+   </br>These were the pending items:
    <ul>
         <li><b>Layout and the use of pictures</b> - I made changes to the layout, added slicers, changed the images to use creative commons license images.</li>
         <li><b>Adding some more context on the correlation between the two bar graphs</b> - I added a link to a paper that actually talks about the correlation. </li>
@@ -89,5 +91,5 @@ Overall, I am happy that I was able to stick with my original idea and the proce
    
 <p>*All the Images are either free/ taken by me or licensed under the Creatives Credit License and have been credited to the author below each image (specially for the images used in the card layout). These images have been taken from Creatives Common, Flickr, PikWizard, Pexels.</p>
   
-  <p>*Icons were taken from Microsoft PowerPoint.</p></i>
+  <p>*Icons were taken from Microsoft PowerPoint except the icons used for Global Gender Index determinants which was directly taken from WHO, cited in references.</p></i>
 
