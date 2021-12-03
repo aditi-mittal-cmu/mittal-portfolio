@@ -1,4 +1,4 @@
-<h1>Part III: Final project and presentation</h1>
+<i><h1>Part III: Final project and presentation</h1>
 
 <h2>How it started?</h2>
 <p>Here's a link to go back to the [Part I](finalProjectPart1.md) of my project. This was the brainstorming phase - a high level project idea, project structure, data sources.</p>
@@ -13,7 +13,7 @@
 
 <p>Since the scope of my audience  was large, and was not targeted, the key things that I thought about while revising was whether it all flew together and made sense. 
 
-I didn't have a single persona for my target audience - the reason being that gender equality is not limited by boundaries. I kept my demographics diverse - An American male, An Asian male and two Asian women. I think my message was relevant to everyone - in the sense that <i>all of us<i> need to be more aware of what the situation. I would have liked to get more feedback but due to the lack of time, it weren't possible - however, it was unequivocally clear that there was a general lack of awareness around some of the statistics concerning gender equality. 
+I didn't have a single persona for my target audience - the reason being that gender equality is not limited by boundaries. I kept my demographics diverse - An American male, An Asian male and two Asian women. I think my message was relevant to everyone - in the sense that all of us need to be more aware of what the situation. I would have liked to get more feedback but due to the lack of time, it weren't possible - however, it was unequivocally clear that there was a general lack of awareness around some of the statistics concerning gender equality. 
 
 Further, based on the feedback on what next steps could the audience take, I suggested several Call to Actions - including a list of Non-for profits, petitions.</p>
 
@@ -80,5 +80,5 @@ From Part 1 and now, I am happy that I was able to stick with my original idea a
    
 <p>*All the Images are either free/ taken by me or licensed under the Creatives Credit License and have been credited to the author below each image (specially for the images used in the card layout). These images have been taken from Creatives Common, Flickr, PikWizard, Pexels.</p>
   
-  <p>*Icons were taken from Microsoft PowerPoint.</p>
+  <p>*Icons were taken from Microsoft PowerPoint.</p></i>
 
