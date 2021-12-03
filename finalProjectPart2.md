@@ -175,3 +175,8 @@ I also liked the statistic about CEOs and CFOs"</i></p>
      <li>I think the idea of having two countries and explaining the statistics is great and I would like to test it out once.</li> 
     </ol>
 </p>
+
+
+To go back to Part I, click [here](finalProjectPart1.md)
+
+To proceed to Part III, click [here](finalProjectPart3.md)
