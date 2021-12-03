@@ -4,9 +4,7 @@ This is my public portfolio for Telling Stories with Data at CMU!
 # About me
 
 
-
-
-
+ ![Me]
 
 Hello, there! I am Aditi (She/Her/Hers), a Masters of Information Systems Management student at Carnegie Mellon University.
 
