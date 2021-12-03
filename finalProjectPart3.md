@@ -40,8 +40,8 @@ I also added the literacy rate column for the top 25 countries Gender Gap Index 
 Another feedback I had received was that there was some inconsistency in the colouring scheme of the two bar charts and the bifurcation via regions was not coming across. This was actually because of an oversight while setting the custom colours, so I corrected that and to highlight European countries I went a shade darker than the original pastel pink. 
 
 I had incorporated most of the feedback from the interviews in my part 2 submission, some of them were left because of time constraints.
+   </br>These were the pending items
    <ul>
-        <li>These were the pending items</li>
         <li><b>Layout and the use of pictures</b> - I made changes to the layout, added slicers, changed the images to use creative commons license images.</li>
         <li><b>Adding some more context on the correlation between the two bar graphs</b> - I added a link to a paper that actually talks about the correlation. </li>
         <li><b>Some more information on the different measures used to calculate the Gender Gap Index</b> - I did not want to go into the depth of how the Gender Gap Index was calculated. While, this was a great feedback, I left it out for project scope constraints.</li>
