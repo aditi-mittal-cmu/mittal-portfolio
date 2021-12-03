@@ -39,11 +39,18 @@ I also added the literacy rate column for the top 25 countries Gender Gap Index 
 
 Another feedback I had received was that there was some inconsistency in the colouring scheme of the two bar charts and the bifurcation via regions was not coming across. This was actually because of an oversight while setting the custom colours, so I corrected that and to highlight European countries I went a shade darker than the original pastel pink. 
 
-I had incorporated most of the feedback from the interviews in my part 2 submission, some of them were left because of time constraints. I changed the title to something less personal. Though originally I had envisioned adding a more personal touch, I decided against it since it is a public portfolio and I did not want to include any employer specific story. I also tried to play around with two countries - India and US but the amount of information on the story ended up being humongous and I stuck to having information about only India.
+I had incorporated most of the feedback from the interviews in my part 2 submission, some of them were left because of time constraints.
+These were the pending items
+<b>Layout and the use of pictures</b> - I made changes to the layout, added slicers, changed the images to use creative commons license images.
+<b>Adding some more context on the correlation between the two bar graphs</b> - I added a link to a paper that actually talks about the correlation. 
+<b>Some more information on the different measures used to calculate the Gender Gap Index<b> - I did not want to go into the depth of how the Gender Gap Index was calculated. While, this was a great feedback, I left it out for project scope constraints. 
+<b>I think the idea of having two countries and explaining the statistics is great and I would like to test it out once </b>-  I tried to play around with two countries - India and US but the amount of information on the story ended up being humongous and I stuck to having information only about India. Plus, I thought the european (nordic) countries already provided that competitive benchmarking. 
+  
+I also changed the title to something less personal. Though originally I had envisioned adding a more personal touch, I decided against it since it is a public portfolio and I did not want to include any employer specific story.
 
 Now, when I reflect back on the entire journey, I think the key to getting better at visualizations was trying out different options, I definitely found an improvement in myself in terms of the amount of time I spent on creating visualizations. Another aspect that was particularly challenging at first was the 1 minute presentation. Understanding what key elements to include in the presentations, such that it still flows coherently and conveys the overall intent was very difficult. After multiple iterations, I was finally able to do it all under 1 minute. 
 
-From Part 1 and now, I am happy that I was able to stick with my original idea and the process in between helped me refine it into an impactful story.</p>
+Overall, I am happy that I was able to stick with my original idea and the process in between helped me refine it into an impactful story.</p>
 
   <h3>Data References</h3>
   <ol>
