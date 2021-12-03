@@ -3,14 +3,15 @@
    <p><i>This final project allowed me to apply everything I had learned in the course, explore flourish to create different visualizations, shorthand for creating the data story. The intent of choosing the topic "Make <i>IT</i>Equal" was to pick up something that mattered to me. This entire process has been educative, interesting and enlightning. From soliciting feedback from different people, to preparing a 1 min presentation of something that took weeks of work was definitely exciting.</i></p>
 
 <h2>How it started?</h2>
-<p><i>Here's a link to go back to the </i></p>
-   [Final Project Part-3](finalProjectPart1.md)<i><p>of my project. This was the brainstorming phase - a high level project idea, project structure, data sources.</i></p>
+Here's a link to go back to the [Final Project Part-3](finalProjectPart1.md) of my project. 
+This was the brainstorming phase - a high level project idea, project structure, data sources.
 
 <h2>How it progressed?</h2>
-<p><i>Here's a link to go back to the </i></p>[Part II](finalProjectPart2.md)<i><p> of my project. This was the implementation phase, to finally put my thoughts into motion. I went through several iterations here. I used shorthand to build the story arc. This primarily included storyboarding and user research. </i></p>
+Here's a link to go back to the [Part II](finalProjectPart2.md) of my project. 
+This was the implementation phase, to finally put my thoughts into motion. I went through several iterations here. I used shorthand to build the story arc. This primarily included storyboarding and user research. 
 
 <h2>How it ended?</h2>
-<p><i>To access my final story, click on this</i></p> [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html)
+To access my final story, click on this [link](https://carnegiemellon.shorthandstories.com/make-it-equal/index.html)
 
 <h3><i>Audience for the project</i></h3>
 
