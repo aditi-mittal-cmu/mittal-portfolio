@@ -85,8 +85,11 @@ I used a population pyramid chart to highlight the difference between the impact
     <td> [3] </td>
     <td>https://www.catalyst.org/research/the-bottom-line-connecting-corporate-performance-and-gender-diversity/</td>
   </tr>
+   <tr>
+    <td> [4] </td>
+    <td>https://www.who.int/data/nutrition/nlis/info/gender-inequality-index-(gii) </td>
+  </tr>
 </table>
-
    
 <p><i>*All the Images are either free (available for free distribution)/ taken by me or licensed under the Creatives Credit License and have been credited to the author below each image (specially for the images used in the card layout). These images have been taken from Creatives Common, Flickr, PikWizard, Pexels.</i></p>
   
