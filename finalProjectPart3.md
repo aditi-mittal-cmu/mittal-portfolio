@@ -3,7 +3,7 @@
    <p><i>This final project allowed me to apply everything I had learned in the course, explore flourish to create different visualizations, shorthand for creating the data story. The intent of choosing the topic "Make <i>IT</i>Equal" was to pick up something that mattered to me. This entire process has been educative, interesting and enlightning. From soliciting feedback from different people, to preparing a 1 min presentation of something that took weeks of work was definitely exciting.</i></p>
 
 <h2>How it started?</h2>
-Here's a link to go back to the [Final Project Part-3](finalProjectPart1.md) of my project. 
+Here's a link to go back to the [Part-I](finalProjectPart1.md) of my project. 
 This was the brainstorming phase - a high level project idea, project structure, data sources.
 
 <h2>How it progressed?</h2>
